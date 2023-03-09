@@ -17,7 +17,7 @@ You may also see any lint errors in the console.
 # this is movie search app 
 ## tools used is vs code 
 ## technologies used is react js html css javascript
-#here we used api from omdb
-# we used query parameters use state use effect use navigate react rouer dom 
-#for styling we used mui
+# here we used api from omdb
+# we used query parameters use state use effect use navigate react router dom props map functions
+# for styling we used mui
 # it is basically a movie search app where we get movie in a card view upon searching in search
